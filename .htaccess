@@ -1,0 +1,11 @@
+AddDefaultCharset utf-8
+
+Options -Indexes
+
+Options +MultiViews
+
+DirectoryIndex index3.php
+
+
+
+IndexIgnore index3.php
